@@ -60,8 +60,22 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+## X AXIS ASSEMBLY:
+<img width="1382" height="741" alt="image" src="https://github.com/user-attachments/assets/d5025fa4-93b5-4484-8fb5-ba376e3f5c81" />
+
+## Y AXIS ASSEMBLY:
+<img width="1382" height="737" alt="image" src="https://github.com/user-attachments/assets/e52fbc36-5e3f-47d5-babb-15f64ae8c9c5" />
+
+## Z AXIS ASSEMBLY:
+<img width="1377" height="737" alt="image" src="https://github.com/user-attachments/assets/fbe5974a-f055-4e02-babb-150401549d71" />
+
+## COMPLETE ASSEMBLY:
+<img width="1382" height="737" alt="image" src="https://github.com/user-attachments/assets/f171f87b-7844-48db-a526-e37250ce5c92" />
+
+
+
+### Name: LOKESH B
+### Register Number: 212224040172
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
